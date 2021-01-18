@@ -53,4 +53,4 @@ AmountOfDeposit = AmountOfDeposit + AnnualIncome
 MeterYears += 1
 }
 
-print("summa vklada s procentami za 5 let sostovlyaet =",AmountOfDeposit)
+print("Summa vklada s procentami za 5 let sostovlyaet ",AmountOfDeposit ,"Rubley")
